@@ -1,0 +1,846 @@
+#EXTM3U
+#EXTINF:0,IRIB TV1
+http://172.16.0.11:5001/bysid/101
+
+#EXTINF:0,IRIB TV2
+http://172.16.0.11:5001/bysid/102
+
+#EXTINF:0,IRIB TV3
+http://172.16.0.11:5001/bysid/103
+
+#EXTINF:0,IRIB TV4
+http://172.16.0.11:5001/bysid/104
+
+#EXTINF:0,TEHRAN HD
+http://172.16.0.11:5002/bysid/120
+
+#EXTINF:0,NASIM
+http://172.16.0.11:5001/bysid/105
+
+#EXTINF:0,IRINN
+http://172.16.0.11:5001/bysid/106
+
+#EXTINF:0,IRINN 2
+http://172.16.0.11:5002/bysid/116
+
+#EXTINF:0,AMOOZESH
+http://172.16.0.11:5001/bysid/107
+
+#EXTINF:0,IRIB QURAN
+http://172.16.0.11:5001/bysid/108
+
+#EXTINF:0,MOSTANAD
+http://172.16.0.11:5001/bysid/109
+
+#EXTINF:0,OMID
+http://172.16.0.11:5001/bysid/110
+
+#EXTINF:0,POOYA
+http://172.16.0.11:5001/bysid/111
+
+#EXTINF:0,NAMAYESH
+http://172.16.0.11:5002/bysid/112
+
+#EXTINF:0,OFOGH
+http://172.16.0.11:5002/bysid/113
+
+#EXTINF:0,iFILM
+http://172.16.0.11:5002/bysid/114
+
+#EXTINF:0,TAMASHA
+http://172.16.0.11:5002/bysid/115
+
+#EXTINF:0,VARZESH
+http://172.16.0.11:5002/bysid/117
+
+#EXTINF:0,SALAMAT
+http://172.16.0.11:5002/bysid/119
+
+#EXTINF:0,IRIB KH RAZAVI
+http://172.16.0.11:5004/bysid/161
+
+#EXTINF:0,IRIB SAHAND
+http://172.16.0.11:5004/bysid/162
+
+#EXTINF:0,IRIB GOLESTAN
+http://172.16.0.11:5004/bysid/163
+
+#EXTINF:0,IRIB FARS
+http://172.16.0.11:5004/bysid/164
+
+#EXTINF:0,IRIB LORESTAN
+http://172.16.0.11:5004/bysid/165
+
+#EXTINF:0,IRIB BARAN
+http://172.16.0.11:5004/bysid/167
+
+#EXTINF:0,IRIB AZARBAYJAN
+http://172.16.0.11:5004/bysid/169
+
+#EXTINF:0,IRIB ALBORZ
+http://172.16.0.11:5004/bysid/170
+
+#EXTINF:0,IRIB ESFAHAN
+http://172.16.0.11:5004/bysid/171
+
+#EXTINF:0,IRIB KHOOZESTAN
+http://172.16.0.11:5004/bysid/172
+
+#EXTINF:0,IRIB KERMAN
+http://172.16.0.11:5004/bysid/173
+
+#EXTINF:0,IRIB MAZANDARAN
+http://172.16.0.11:5004/bysid/174
+
+#EXTINF:0,IRIB NOOR
+http://172.16.0.11:5004/bysid/175
+
+#EXTINF:0,IRIB KH SHOMALI
+http://172.16.0.11:5004/bysid/176
+
+#EXTINF:0,IRIB HAMOON
+http://172.16.0.11:5004/bysid/177
+
+#EXTINF:0,IRIB BUSHEHR
+http://172.16.0.11:5004/bysid/178
+
+#EXTINF:0,IRIB ILAM
+http://172.16.0.11:5004/bysid/179
+
+#EXTINF:0,IRIB HAMEDAN
+http://172.16.0.11:5004/bysid/180
+
+#EXTINF:0,IRIB JAHANBIN
+http://172.16.0.11:5004/bysid/181
+
+#EXTINF:0,IRIB YAZD
+http://172.16.0.11:5004/bysid/182
+
+#EXTINF:0,IRIB SABALAN
+http://172.16.0.11:5004/bysid/183
+
+#EXTINF:0,IRIB MAHABAD
+http://172.16.0.11:5004/bysid/184
+
+#EXTINF:0,IRIB KHALIJEFARS
+http://172.16.0.11:5004/bysid/185
+
+#EXTINF:0,IRIB AFTAB
+http://172.16.0.11:5004/bysid/186
+
+#EXTINF:0,IRIB ESHRAGH
+http://172.16.0.11:5004/bysid/187
+
+#EXTINF:0,IRIB KERMANSHAH
+http://172.16.0.11:5004/bysid/188
+
+#EXTINF:0,IRIB DENA
+http://172.16.0.11:5004/bysid/189
+
+#EXTINF:0,IRIB SEMNAN
+http://172.16.0.11:5004/bysid/190
+
+#EXTINF:0,IRIB KORDESTAN
+http://172.16.0.11:5004/bysid/191
+
+#EXTINF:0,IRIB KH JONOOBI
+http://172.16.0.11:5004/bysid/192
+
+#EXTINF:0,IRIB QAZVIN
+http://172.16.0.11:5004/bysid/193
+
+#EXTINF:0,Shabakeh 7
+http://172.16.0.11:5005/bysid/3
+
+#EXTINF:0,Khabarbin TV
+http://172.16.0.11:5005/bysid/4
+
+#EXTINF:0,Iran International HD
+http://172.16.0.11:5005/bysid/5
+
+#EXTINF:0,Persiana Sports HD
+http://172.16.0.11:5005/bysid/6
+
+#EXTINF:0,Iran International
+http://172.16.0.11:5005/bysid/8
+
+#EXTINF:0,Nour TV
+http://172.16.0.11:5005/bysid/9
+
+#EXTINF:0,Mardom TV
+http://172.16.0.11:5005/bysid/11
+
+#EXTINF:0,RAVI TV
+http://172.16.0.11:5005/bysid/14
+
+#EXTINF:0,ZED TV
+http://172.16.0.11:5005/bysid/15
+
+#EXTINF:0,Komala TV
+http://172.16.0.11:5005/bysid/16
+
+#EXTINF:0,Kurd Channel
+http://172.16.0.11:5005/bysid/17
+
+#EXTINF:0,SAT-7 Pars
+http://172.16.0.11:5005/bysid/18
+
+#EXTINF:0,Mohabat TV HD
+http://172.16.0.11:5005/bysid/19
+
+#EXTINF:0,ONYX HD
+http://172.16.0.11:5006/bysid/11
+
+#EXTINF:0,RUBIX+ HD
+http://172.16.0.11:5006/bysid/12
+
+#EXTINF:0,RIVER+ HD
+http://172.16.0.11:5006/bysid/14
+
+#EXTINF:0,24B HD
+http://172.16.0.11:5006/bysid/15
+
+#EXTINF:0,GEM TV+ HD
+http://172.16.0.11:5006/bysid/16
+
+#EXTINF:0,GEM DRAMA+ HD
+http://172.16.0.11:5006/bysid/17
+
+#EXTINF:0,GEM SERIES+ HD
+http://172.16.0.11:5006/bysid/19
+
+#EXTINF:0,MIFA MUSIC HD
+http://172.16.0.11:5006/bysid/22
+
+#EXTINF:0,GEM AZ
+http://172.16.0.11:5006/bysid/23
+
+#EXTINF:0,GEM COMEDY
+http://172.16.0.11:5006/bysid/24
+
+#EXTINF:0,GEM DOCUMENTARY HD
+http://172.16.0.11:5006/bysid/26
+
+#EXTINF:0,MODERN ECONOMY
+http://172.16.0.11:5006/bysid/27
+
+#EXTINF:0,World Cup HD
+http://172.16.0.11:5006/bysid/28
+
+#EXTINF:0,GEM SPORT HD
+http://172.16.0.11:5006/bysid/29
+
+#EXTINF:0,GEM MUSIC
+http://172.16.0.11:5006/bysid/30
+
+#EXTINF:0,GEM FOOD
+http://172.16.0.11:5007/bysid/14
+
+#EXTINF:0,GEM FIT
+http://172.16.0.11:5007/bysid/15
+
+#EXTINF:0,RUBIX
+http://172.16.0.11:5007/bysid/16
+
+#EXTINF:0,RIVER
+http://172.16.0.11:5007/bysid/17
+
+#EXTINF:0,GEM LIFE
+http://172.16.0.11:5007/bysid/18
+
+#EXTINF:0,GEM BOLLYWOOD
+http://172.16.0.11:5007/bysid/19
+
+#EXTINF:0,GEM CLASSIC
+http://172.16.0.11:5007/bysid/20
+
+#EXTINF:0,GEM SERIES
+http://172.16.0.11:5007/bysid/21
+
+#EXTINF:0,GEM NATURE
+http://172.16.0.11:5007/bysid/22
+
+#EXTINF:0,GEM JUNIOR
+http://172.16.0.11:5007/bysid/23
+
+#EXTINF:0,GEM TV
+http://172.16.0.11:5007/bysid/25
+
+#EXTINF:0,GEM ENTERTAINMENT
+http://172.16.0.11:5007/bysid/26
+
+#EXTINF:0,GEM KIDS
+http://172.16.0.11:5007/bysid/28
+
+#EXTINF:0,GEM SPORT SD
+http://172.16.0.11:5007/bysid/29
+
+#EXTINF:0,GEM FILM
+http://172.16.0.11:5007/bysid/30
+
+#EXTINF:0,GEM DRAMA
+http://172.16.0.11:5007/bysid/34
+
+#EXTINF:0,GEM PIXEL
+http://172.16.0.11:5007/bysid/40
+
+#EXTINF:0,Home+ HD
+http://172.16.0.11:5008/bysid/10
+
+#EXTINF:0,4Kurd
+http://172.16.0.11:5008/bysid/47
+
+#EXTINF:0,Classic TV
+http://172.16.0.11:5008/bysid/49
+
+#EXTINF:0,TBN Nejat
+http://172.16.0.11:5008/bysid/2
+
+#EXTINF:0,Gold Star TV
+http://172.16.0.11:5008/bysid/18
+
+#EXTINF:0,Persiana Family
+http://172.16.0.11:5008/bysid/1
+
+#EXTINF:0,Persiana Cinema
+http://172.16.0.11:5008/bysid/3
+
+#EXTINF:0,Persiana Junior
+http://172.16.0.11:5008/bysid/4
+
+#EXTINF:0,Persiana Iranian
+http://172.16.0.11:5008/bysid/5
+
+#EXTINF:0,Persiana Comedy
+http://172.16.0.11:5008/bysid/7
+
+#EXTINF:0,Persiana Series
+http://172.16.0.11:5008/bysid/8
+
+#EXTINF:0,Persiana Sports HD
+http://172.16.0.11:5008/bysid/9
+
+#EXTINF:0,Persiana Sports 2
+http://172.16.0.11:5008/bysid/12
+
+#EXTINF:0,Persiana Music
+http://172.16.0.11:5008/bysid/13
+
+#EXTINF:0,Persiana Nostalgia
+http://172.16.0.11:5008/bysid/14
+
+#EXTINF:0,Persiana Folk
+http://172.16.0.11:5008/bysid/23
+
+#EXTINF:0,Persiana Korea
+http://172.16.0.11:5008/bysid/24
+
+#EXTINF:0,Persiana Sports
+http://172.16.0.11:5008/bysid/45
+
+#EXTINF:0,Persiana Sports 3
+http://172.16.0.11:5010/bysid/1
+
+#EXTINF:0,Persiana Sports 4
+http://172.16.0.11:5010/bysid/2
+
+#EXTINF:0,Persiana Set Mix
+http://172.16.0.11:5010/bysid/4
+
+#EXTINF:0,Persiana Sports
+http://172.16.0.11:5010/bysid/6
+
+#EXTINF:0,Nour TV
+http://172.16.0.11:5010/bysid/9
+
+#EXTINF:0,Tamadon HD
+http://172.16.0.11:5010/bysid/11
+
+#EXTINF:0,Adei Radio
+http://172.16.0.11:5010/bysid/13
+
+#EXTINF:0,Ravi TV
+http://172.16.0.11:5010/bysid/14
+
+#EXTINF:0,ZED TV
+http://172.16.0.11:5010/bysid/15
+
+#EXTINF:0,Komala TV
+http://172.16.0.11:5010/bysid/16
+
+#EXTINF:0,Kurd Channel HD
+http://172.16.0.11:5010/bysid/17
+
+#EXTINF:0,SAT-7 Pars
+http://172.16.0.11:5010/bysid/18
+
+#EXTINF:0,Mohabat TV HD
+http://172.16.0.11:5010/bysid/19
+
+#EXTINF:0,Shabakeh 7 HD
+http://172.16.0.11:5010/bysid/3
+
+#EXTINF:0,Khabarbin TV
+http://172.16.0.11:5010/bysid/5
+
+#EXTINF:0,Euronews Persian
+http://172.16.0.11:5010/bysid/7
+
+#EXTINF:0,Drpal TV
+http://172.16.0.11:5014/bysid/5
+
+#EXTINF:0,QToon
+http://172.16.0.11:5014/bysid/2
+
+#EXTINF:0,TOON+
+http://172.16.0.11:5014/bysid/13
+
+#EXTINF:0,Grand Cinema
+http://172.16.0.11:5014/bysid/31
+
+#EXTINF:0,Grand Sport
+http://172.16.0.11:5014/bysid/4
+
+#EXTINF:0,Grand Series
+http://172.16.0.11:5014/bysid/6
+
+#EXTINF:0,Grand TV
+http://172.16.0.11:5014/bysid/8
+
+#EXTINF:0,Grand Toon
+http://172.16.0.11:5014/bysid/9
+
+#EXTINF:0,TV8
+http://172.16.0.11:5014/bysid/12
+
+#EXTINF:0,MOVIE ONE
+http://172.16.0.11:5014/bysid/7
+
+#EXTINF:0,Simay Azadi SD
+http://172.16.0.11:5014/bysid/15
+
+#EXTINF:0,SAT7 PARS
+http://172.16.0.11:5014/bysid/17
+
+#EXTINF:0,JK Music
+http://172.16.0.11:5014/bysid/18
+
+#EXTINF:0,AlHadi TV
+http://172.16.0.11:5014/bysid/23
+
+#EXTINF:0,GANJE HOZOUR 3
+http://172.16.0.11:5014/bysid/24
+
+#EXTINF:0,KALEMEH TV
+http://172.16.0.11:5014/bysid/25
+
+#EXTINF:0,AYENEH TV
+http://172.16.0.11:5014/bysid/27
+
+#EXTINF:0,RADIS
+http://172.16.0.11:5014/bysid/30
+
+#EXTINF:0,Iran Nama HD
+http://172.16.0.11:5011/bysid/1
+
+#EXTINF:0,ITN HD
+http://172.16.0.11:5011/bysid/3
+
+#EXTINF:0,SETAREH TV
+http://172.16.0.11:5011/bysid/4
+
+#EXTINF:0,247Box
+http://172.16.0.11:5011/bysid/5
+
+#EXTINF:0,Azadi TV SD
+http://172.16.0.11:5011/bysid/9
+
+#EXTINF:0,Omid e Iran
+http://172.16.0.11:5011/bysid/10
+
+#EXTINF:0,MTC
+http://172.16.0.11:5011/bysid/18
+
+#EXTINF:0,Persiana Fight HD
+http://172.16.0.11:5011/bysid/22
+
+#EXTINF:0,4U TV HD
+http://172.16.0.11:5011/bysid/24
+
+#EXTINF:0,Meraj TV
+http://172.16.0.11:5011/bysid/26
+
+#EXTINF:0,Iran Film HD
+http://172.16.0.11:5011/bysid/27
+
+#EXTINF:0,MBC Persia HD
+http://172.16.0.11:5011/bysid/28
+
+#EXTINF:0,Afghanistan Intl
+http://172.16.0.11:5011/bysid/60
+
+#EXTINF:0,PMC HD
+http://172.16.0.11:5011/bysid/11
+
+#EXTINF:0,PMC Planeta
+http://172.16.0.11:5015/bysid/12
+
+#EXTINF:0,PMC Royale
+http://172.16.0.11:5015/bysid/26
+
+#EXTINF:0,PMC SELECT
+http://172.16.0.11:5015/bysid/36
+
+#EXTINF:0,Tapesh HD
+http://172.16.0.11:5015/bysid/34
+
+#EXTINF:0,Sun Music TV
+http://172.16.0.11:5015/bysid/35
+
+#EXTINF:0,T2 HD
+http://172.16.0.11:5015/bysid/27
+
+#EXTINF:0,Afra Series HD
+http://172.16.0.11:5015/bysid/2
+
+#EXTINF:0,Persiana Teen
+http://172.16.0.11:5015/bysid/3
+
+#EXTINF:0,Derakhte Zendegi
+http://172.16.0.11:5015/bysid/4
+
+#EXTINF:0,Persiana Reality
+http://172.16.0.11:5015/bysid/6
+
+#EXTINF:0,Meta Film HD
+http://172.16.0.11:5015/bysid/7
+
+#EXTINF:0,Afghanistan Intl HD
+http://172.16.0.11:5015/bysid/8
+
+#EXTINF:0,Kanal Yek HD
+http://172.16.0.11:5015/bysid/9
+
+#EXTINF:0,Nahade Azadi
+http://172.16.0.11:5015/bysid/1
+
+#EXTINF:0,4Turk
+http://172.16.0.11:5015/bysid/10
+
+#EXTINF:0,Persiana Sports 2
+http://172.16.0.11:5015/bysid/11
+
+#EXTINF:0,4U Family
+http://172.16.0.11:5015/bysid/14
+
+#EXTINF:0,Iran Wire
+http://172.16.0.11:5015/bysid/15
+
+#EXTINF:0,1TV
+http://172.16.0.11:5015/bysid/17
+
+#EXTINF:0,Afra Film HD
+http://172.16.0.11:5015/bysid/19
+
+#EXTINF:0,Project Leon
+http://172.16.0.11:5015/bysid/22
+
+#EXTINF:0,Iran Intl HD
+http://172.16.0.11:5015/bysid/33
+
+#EXTINF:0,Persiana Medical
+http://172.16.0.11:5015/bysid/38
+
+#EXTINF:0,SETAREH TV HD
+http://172.16.0.11:5015/bysid/39
+
+#EXTINF:0,MARJAEYAT TV
+http://172.16.0.11:5016/bysid/19
+
+#EXTINF:0,IMAM HUSSEIN 1 SD
+http://172.16.0.11:5016/bysid/20
+
+#EXTINF:0,Towheed TV SD
+http://172.16.0.11:5016/bysid/22
+
+#EXTINF:0,Manoto TV
+http://172.16.0.11:5016/bysid/23
+
+#EXTINF:0,CHANNEL ONE
+http://172.16.0.11:5016/bysid/31
+
+#EXTINF:0,GANJE HOZOUR 2
+http://172.16.0.11:5016/bysid/47
+
+#EXTINF:0,IMAM HUSSEIN 1 HD
+http://172.16.0.11:5016/bysid/48
+
+#EXTINF:0,BEITOLABBAS
+http://172.16.0.11:5016/bysid/50
+
+#EXTINF:0,MI TV
+http://172.16.0.11:5016/bysid/52
+
+#EXTINF:0,PAYAM-E-AFGHAN
+http://172.16.0.11:5016/bysid/70
+
+#EXTINF:0,City+
+http://172.16.0.11:5016/bysid/90
+
+#EXTINF:0,JK Music
+http://172.16.0.11:5016/bysid/91
+
+#EXTINF:0,Radio Javan SD
+http://172.16.0.11:5017/bysid/3
+
+#EXTINF:0,Radio Javan HD
+http://172.16.0.11:5017/bysid/18
+
+#EXTINF:0,Navid TV
+http://172.16.0.11:5017/bysid/1
+
+#EXTINF:0,Maah TV
+http://172.16.0.11:5017/bysid/4
+
+#EXTINF:0,SL one
+http://172.16.0.11:5017/bysid/5
+
+#EXTINF:0,Payam Aramesh HD
+http://172.16.0.11:5017/bysid/6
+
+#EXTINF:0,Woman TV
+http://172.16.0.11:5017/bysid/7
+
+#EXTINF:0,ICNET 3 HD
+http://172.16.0.11:5017/bysid/8
+
+#EXTINF:0,ARKO TV
+http://172.16.0.11:5017/bysid/9
+
+#EXTINF:0,Maawj TV HD
+http://172.16.0.11:5017/bysid/10
+
+#EXTINF:0,Royal TV
+http://172.16.0.11:5017/bysid/11
+
+#EXTINF:0,Al Furqan Radio
+http://172.16.0.11:5017/bysid/12
+
+#EXTINF:0,ARAX TV
+http://172.16.0.11:5017/bysid/13
+
+#EXTINF:0,Khane Film
+http://172.16.0.11:5017/bysid/14
+
+#EXTINF:0,ICNET 1 HD
+http://172.16.0.11:5017/bysid/15
+
+#EXTINF:0,DATIS TV
+http://172.16.0.11:5017/bysid/16
+
+#EXTINF:0,Tamadon HD
+http://172.16.0.11:5017/bysid/17
+
+#EXTINF:0,IRAN TODAY
+http://172.16.0.11:5017/bysid/19
+
+#EXTINF:0,Project Leon
+http://172.16.0.11:5017/bysid/20
+
+#EXTINF:0,Rah E Ferda TV
+http://172.16.0.11:5017/bysid/21
+
+#EXTINF:0,MBC Persia SD
+http://172.16.0.11:5017/bysid/32
+
+#EXTINF:0,ICNET2 HD
+http://172.16.0.11:5017/bysid/40
+
+#EXTINF:0,Azadi TV HD
+http://172.16.0.11:5017/bysid/41
+
+#EXTINF:0,Kalemeh TV
+http://172.16.0.11:5018/bysid/1
+
+#EXTINF:0,Your Time TV HD
+http://172.16.0.11:5018/bysid/3
+
+#EXTINF:0,Your Time TV
+http://172.16.0.11:5018/bysid/13
+
+#EXTINF:0,Haray Radio
+http://172.16.0.11:5018/bysid/4
+
+#EXTINF:0,TMTV
+http://172.16.0.11:5018/bysid/6
+
+#EXTINF:0,Iran Wire
+http://172.16.0.11:5018/bysid/8
+
+#EXTINF:0,ITN
+http://172.16.0.11:5018/bysid/12
+
+#EXTINF:0,AVA Series
+http://172.16.0.11:5018/bysid/21
+
+#EXTINF:0,Solh Sports
+http://172.16.0.11:5018/bysid/29
+
+#EXTINF:0,Payam E Doost
+http://172.16.0.11:5018/bysid/33
+
+#EXTINF:0,Iran-e-Farda TV
+http://172.16.0.11:5018/bysid/35
+
+#EXTINF:0,Radio Jawanan
+http://172.16.0.11:5018/bysid/37
+
+#EXTINF:0,Kanal Jadid
+http://172.16.0.11:5018/bysid/38
+
+#EXTINF:0,Pars TV
+http://172.16.0.11:5018/bysid/40
+
+#EXTINF:0,Khane Honarmandan
+http://172.16.0.11:5018/bysid/41
+
+#EXTINF:0,Navahang
+http://172.16.0.11:5018/bysid/816
+
+#EXTINF:0,ICC - Film & Series
+http://172.16.0.11:5018/bysid/42
+
+#EXTINF:0,Sharq Global TV
+http://172.16.0.11:5018/bysid/701
+
+#EXTINF:0,Iran International
+http://172.16.0.11:5018/bysid/705
+
+#EXTINF:0,Eslah TV
+http://172.16.0.11:5018/bysid/711
+
+#EXTINF:0,OXIR TV
+http://172.16.0.11:5018/bysid/803
+
+#EXTINF:0,Dunya naw TV - farah
+http://172.16.0.11:5018/bysid/808
+
+#EXTINF:0,SL two
+http://172.16.0.11:5018/bysid/809
+
+#EXTINF:0,AVA Family
+http://172.16.0.11:5018/bysid/817
+
+#EXTINF:0,Kalemeh TV
+http://172.16.0.11:5019/bysid/1
+
+#EXTINF:0,GANJE HOZOUR
+http://172.16.0.11:5019/bysid/71
+
+#EXTINF:0,GANJE HOZOUR 4
+http://172.16.0.11:5019/bysid/77
+
+#EXTINF:0,GANJE HOZOUR 5
+http://172.16.0.11:5019/bysid/59
+
+#EXTINF:0,IRANOVA
+http://172.16.0.11:5019/bysid/61
+
+#EXTINF:0,Toosheh TV
+http://172.16.0.11:5019/bysid/62
+
+#EXTINF:0,C+
+http://172.16.0.11:5019/bysid/63
+
+#EXTINF:0,RUBY MUSIC
+http://172.16.0.11:5019/bysid/64
+
+#EXTINF:0,Rostam Media
+http://172.16.0.11:5019/bysid/65
+
+#EXTINF:0,MY TV
+http://172.16.0.11:5019/bysid/66
+
+#EXTINF:0,LUX TV
+http://172.16.0.11:5019/bysid/67
+
+#EXTINF:0,TAK TV
+http://172.16.0.11:5019/bysid/68
+
+#EXTINF:0,Film+
+http://172.16.0.11:5019/bysid/69
+
+#EXTINF:0,CITY TV
+http://172.16.0.11:5019/bysid/70
+
+#EXTINF:0,DIDGAH TV
+http://172.16.0.11:5019/bysid/72
+
+#EXTINF:0,Hamsafar
+http://172.16.0.11:5019/bysid/73
+
+#EXTINF:0,TALA KIDS
+http://172.16.0.11:5019/bysid/74
+
+#EXTINF:0,PERSIAN MUSIC
+http://172.16.0.11:5019/bysid/75
+
+#EXTINF:0,TIN TV
+http://172.16.0.11:5019/bysid/79
+
+#EXTINF:0,QFilm
+http://172.16.0.11:5019/bysid/80
+
+#EXTINF:0,VELAYAT TV
+http://172.16.0.11:5019/bysid/81
+
+#EXTINF:0,MBC1
+http://172.16.0.11:5009/bysid/1
+
+#EXTINF:0,MBC 1 SD
+http://172.16.0.11:5009/bysid/10
+
+#EXTINF:0,MBC2
+http://172.16.0.11:5009/bysid/6
+
+#EXTINF:0,MBC3
+http://172.16.0.11:5009/bysid/9
+
+#EXTINF:0,MBC4
+http://172.16.0.11:5009/bysid/2
+
+#EXTINF:0,MBC Drama
+http://172.16.0.11:5009/bysid/3
+
+#EXTINF:0,MBC Bollywood
+http://172.16.0.11:5009/bysid/5
+
+#EXTINF:0,MBC Action
+http://172.16.0.11:5009/bysid/7
+
+#EXTINF:0,MBC MAX
+http://172.16.0.11:5009/bysid/8
+
+#EXTINF:0,MBC MOOD
+http://172.16.0.11:5009/bysid/11
+
+#EXTINF:0,SHOW HD
+http://172.16.0.11:5012/bysid/11000
+
+#EXTINF:0,HABERTURK HD
+http://172.16.0.11:5012/bysid/11001
+
+#EXTINF:0,BLOOMBERGHT HD
+http://172.16.0.11:5012/bysid/11002
+
+#EXTINF:0,SHOW MAX HD
+http://172.16.0.11:5012/bysid/11003
+
+#EXTINF:0,KANAL D
+http://172.16.0.11:5013/bysid/1101
+
+#EXTINF:0,NHK WORLD-JPN
+http://172.16.0.11:5013/bysid/1105
+
+#EXTINF:0,CARTOON NETWORK
+http://172.16.0.11:5013/bysid/1115
